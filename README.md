@@ -79,7 +79,7 @@ Each algorithm is implemented by a different team member:
 
 ---
 
-## 🔄 Project Workflow – Knapsack Problem
+##  Project Workflow – Knapsack Problem
 
 ### 1️⃣ Define the Problem Inputs
 - Specify:
@@ -117,7 +117,7 @@ Compare two cases:
 
 ---
 
-## 📦 Expected Deliverables
+##  Expected Deliverables
 - Source code for each search algorithm
 - Comparative analysis of algorithm performance
 - Output showing:
